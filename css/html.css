@@ -9,6 +9,7 @@
 }
 .set-width{
   width: 480px;
+  float: right;
 }
 .td1{
   width: 150px;
@@ -23,12 +24,13 @@
 .set-height{
   height: 7rem;
 }
-.merge{
-    text-align: center;
+.form{ width: 630px;}
+.submit{
+  text-align: center;
 }
-.merge input{
+.submit input{
   background-color: #F5B4B3;
 }
-.merge input:hover{
+.submit input:hover{
   opacity: 0.6;
 }
