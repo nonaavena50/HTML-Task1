@@ -1,0 +1,34 @@
+.html tr{
+  height: 7rem;
+}
+.html td1{
+  width: 150px;
+}
+.html td2{
+  width: 480px;
+}
+.set-width{
+  width: 480px;
+}
+.td1{
+  width: 150px;
+}
+.button1{
+  margin-right: 10px;
+}
+.button2{
+  margin-left: 40px;
+  margin-right: 10px;
+}
+.set-height{
+  height: 7rem;
+}
+.merge{
+    text-align: center;
+}
+.merge input{
+  background-color: #F5B4B3;
+}
+.merge input:hover{
+  opacity: 0.6;
+}
